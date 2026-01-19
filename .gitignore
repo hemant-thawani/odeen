@@ -1,4 +1,5 @@
 # Logs
+.idea
 logs
 *.log
 npm-debug.log*
@@ -7,15 +8,14 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
 dist
-dist-ssr
+di
+nost-ssr
 *.local
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
-.idea
 .DS_Store
 *.suo
 *.ntvs*
